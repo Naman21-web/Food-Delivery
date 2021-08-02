@@ -1,0 +1,184 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.top{
+    background-color: rgb(5, 127, 131);
+    color: white;
+    font-size: 15px;
+    padding: 3px;
+    text-align: center;
+}
+
+.font span{
+    color: black;
+    font-weight: bold;
+}
+
+.navbar{
+    display: flex;
+    flex-direction: row-reverse;
+    margin: 6px 0px;
+}
+
+.navbar img{
+    width: 4%;
+    height: 50px;
+    border-radius: 27px;
+    margin-right: 580px;
+}
+
+.navlist{
+    display: flex;
+    font-size: 21px;
+    margin-right: 10%;
+}
+
+.navlist li{
+    list-style: none;
+    padding: 20px;
+}
+
+.navlist li a{
+    text-decoration: none;
+    color: black;
+}
+
+.section1{
+    margin-top: 117px;
+    margin-left: 138px;
+    display: flex;
+    margin-right: 100px;
+}
+
+h1{
+    font-size: 65px;
+}
+
+.section1 span{
+    color: rgb(5, 127, 131);
+}
+
+.section1 p{
+    font-size: 20px;
+}
+
+.btn{
+    background-color: rgb(5, 127, 131);
+    font-size: 13px;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+h4{
+    margin-top: 23px;
+    font-size: 20px;
+    font-weight: bolder;
+
+}
+
+.image{
+    width: 70%;
+    /*background: url('Delivery2.jpg')*/
+}
+
+.img{
+    border-radius: 17%;
+    max-width: 87%;
+    height: 390px;
+}
+
+.section2{
+    display: flex;
+    margin-top: 117px;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-left: 35px;
+    background: rgb(112 183 185 / 6%);
+}
+
+.section2 h1{
+    font-size: 65px;
+    color: rgb(5, 127, 131);
+}
+
+.section2 p{
+    font-size: 20px;
+}
+
+.section3{
+    margin-top: 60px;
+}
+
+.section3 h1{
+    text-align: center;
+    color: rgb(5, 127, 131);
+}
+
+.cards{
+    display: flex;
+}
+
+.card1{
+    display: flex;
+    flex-direction: column;
+    margin: 23px;
+    padding: 35px;
+    text-align: center;
+}
+
+.paragraph h2{
+    font-size: 29px;
+}
+
+.paragraph{
+    font-size: 16px;
+}
+
+.image1 img{
+    border-radius: 135px;
+}
+
+.section4{
+    margin-top: 117px;
+    margin-left: 138px;
+    display: flex;
+    margin-right: 100px;
+}
+
+.section4 h1{
+    color: rgb(5, 127, 131);
+}
+
+.section5{
+    margin-top: 117px;
+    margin-left: 138px;
+    display: flex;
+    margin-right: 100px;
+    padding: 0px;
+}
+
+.section5 h1{
+    color: white;
+    margin-top: 140px;
+}
+
+.section5 span{
+    color: rgb(5, 127, 131);
+}
+
+.content1{
+    background-color:  rgb(91 147 149 / 69%)
+}
+
+.image2{
+    width: 40%;
+}
+
+.img2{
+    border-radius: 0px;
+    width: 100%;
+}
